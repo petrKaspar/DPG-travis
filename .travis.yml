@@ -11,4 +11,4 @@ script:
   - coverage run hello.py
 
 after_success:
-  COVERALLS_REPO_TOKEN=J3DfcedH0RlsDSIEmuFytF0fW8odRbgbW
+  COVERALLS_REPO_TOKEN=J3DfcedH0RlsDSIEmuFytF0fW8odRbgbW coverage
